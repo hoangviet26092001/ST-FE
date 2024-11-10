@@ -118,7 +118,7 @@ export default function Board(): React.ReactNode {
         }}
       />
 
-      <h2 style={{ textAlign: "center" }}>PROGRESS BOARD</h2>
+      <h2 style={{ textAlign: "center" }}>KANBAN BOARD</h2>
 
       <div
         style={{
